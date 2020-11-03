@@ -7,6 +7,7 @@
 💻  Continuous Learner ( [hexlet.io](https://ru.hexlet.io/u/alex_popov_tech), [codewars](https://www.codewars.com/users/AleksanderPopov), [exercism.io](https://exercism.io/profiles/AleksanderPopov) ) <br />
 
 And of course...keyboards lover!
-![screenshot](https://github.com/alex-popov-tech/alex-popov-tech/blob/master/keyboard.jpg)
+![ergodox](https://github.com/alex-popov-tech/alex-popov-tech/blob/master/keyboard_ergodox.jpg)
+![kyria_corne](https://github.com/alex-popov-tech/alex-popov-tech/blob/master/keyboard_kyria_corne.jpg)
 
-📧  Contacts [telegram](https://t.me/alex_popov_tech), [email](mailto:alex.popov.tech@gmail.com), [linkedin](https://www.linkedin.com/in/aleksanderpopov/), [skype](https://join.skype.com/invite/n3eQXadjiWGo) ( better to choose one of the first tho )
+📧  Contacts [telegram](https://t.me/alex_popov_tech), [email](mailto:alex.popov.tech@gmail.com), [linkedin](https://www.linkedin.com/in/aleksanderpopov/), [skype](https://join.skype.com/invite/n3eQXadjiWGo) ( better to choose one of the first two tho )
