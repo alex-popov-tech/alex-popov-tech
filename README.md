@@ -11,3 +11,4 @@ And of course...keyboards lover!
 ![kyria_corne](https://github.com/alex-popov-tech/alex-popov-tech/blob/master/keyboard_kyria_corne.jpg)
 
 📧  Contacts [telegram](https://t.me/alex_popov_tech), [email](mailto:alex.popov.tech@gmail.com), [linkedin](https://www.linkedin.com/in/aleksanderpopov/), [skype](https://join.skype.com/invite/n3eQXadjiWGo) ( better to choose one of the first two tho )
+![Metrics](https://github.com/alex-popov-tech/alex-popov-tech/blob/master/github-metrics.svg)
