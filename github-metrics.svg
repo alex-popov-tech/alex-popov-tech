@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            420 issue comments
+                            421 issue comments
                         </div>
                     </section>
                     <section>
@@ -321,6 +321,23 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by lost22git in <span class="repo">alex-popov-tech/store.nvim</span></div>
+                                    <div class="comment">i can replicate the issue, will take a look at it...meanwhile - could you please fill 'opts' with something and try again? like custom proportions or something like that</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#10 Error on executing command `:Store`</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by lost22git in <span class="repo">alex-popov-tech/store.nvim</span></div>
                                     <div class="comment">
                                         hey @lost22git , error message seems pretty descriptive to me, mind sharing your config with
                                         <code>store</code>
@@ -391,31 +408,12 @@ did you test this pr locally? did it went well and installed plugin, so it can i
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#9 Permanent json-database URL?</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by chrisgrieser in <span class="repo">alex-popov-tech/store.nvim</span></div>
-                                    <div class="comment">hey, thanks for your plugin, i was using alfted for quite a while, great stuff!
-not sure i undarstand your question, the one you send IS 'permatent' url of gist/database this plugin is using - https://gist.github.com/alex-popov-tech/dfb6adf1ee0506461d7dc029a28f851d
-it is updated daily by https://github.com/alex-popov-tech/store.nvim.crawler</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Jul 2025, 12:13:26 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jul 2025, 13:10:10 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
